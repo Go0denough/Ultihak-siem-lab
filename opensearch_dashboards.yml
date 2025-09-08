@@ -1,0 +1,13 @@
+# =============================== OpenSearch Dashboards ===============================
+# Basic Dashboards Configuration
+server.host: "0.0.0.0"
+server.port: 5601
+server.name: "OpenSearch-Dashboards"
+
+# Point Dashboards to your OpenSearch backend
+opensearch.hosts: ["http://localhost:9200"]
+
+# Disable login authentication since security plugin is disabled
+
+# Logging
+logging.verbose: true
