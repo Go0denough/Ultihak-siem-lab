@@ -1,6 +1,7 @@
 Mini SIEM Lab/Threat-hunting lab
 
 A lightweight, all-in-one Security Operations Center (SOC) lab for threat hunting and log analysis. This project integrates Suricata (IDS/IPS), Zeek (network analysis), Fluent Bit (log shipper), and OpenSearch into a functional mini-SIEM.
+![Opensearch dashboard homepage](https://github.com/Go0denough/Ultihak-siem-lab/blob/main/Homepsc.jpg?raw=true)
 
 Overview
 This lab is designed to collect, process, and visualize security-relevant data on a single Ubuntu server. It's ideal for learning about network security monitoring, log analysis, and threat hunting in a controlled environment.
@@ -63,3 +64,5 @@ This lab setup disables security features for simplicity and is intended for iso
 
 License
 This project is provided for educational purposes.
+
+![Opensearch dashboard homepage](https://github.com/Go0denough/Ultihak-siem-lab/blob/main/Homepsc.jpg?raw=true)
