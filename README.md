@@ -65,4 +65,4 @@ This lab setup disables security features for simplicity and is intended for iso
 License
 This project is provided for educational purposes.
 
-![Opensearch dashboard homepage](https://github.com/Go0denough/Ultihak-siem-lab/blob/main/Homepsc.jpg?raw=true)
+![Opensearch dashboard homepage](https://github.com/Go0denough/Ultihak-siem-lab/blob/main/Nmaploged.jpg?raw=true)
